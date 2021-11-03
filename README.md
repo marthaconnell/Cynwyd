@@ -9,4 +9,4 @@ Betas are presently available for Regular, Semibold (intended for signage applic
 
 Martha Connell 2021 (marthaconnell.com) Open Font License.
 
-Based on Public Sans (https://public-sans.digital.gov/) with numeral 2 adapted from Poppins (https://fonts.google.com/specimen/Poppins) and arrows adapted from Fira Sans (https://mozilla.github.io/Fira/), all under Open Font License
+Based on Public Sans with numeral 2 adapted from Poppins and arrows adapted from Fira Sans (https://mozilla.github.io/Fira/), all under Open Font License
