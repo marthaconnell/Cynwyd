@@ -3,7 +3,7 @@ Cynwyd typeface beta
 
 A neo-grotesque typeface designed for legible signage and wayfinding materials
 
-Betas are presently available for Book, Signage and Black weights. Obliques are forthcoming.
+Betas are presently available for Regular, Signage (semibold) and Bold weights. Obliques are forthcoming.
 
 The beta versions have not been combined into a font family; therefore in some text editors you may need to toggle bold weight so the fonts display properly.
 
