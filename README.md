@@ -13,4 +13,4 @@ The beta versions have not been combined into a font family; therefore in some t
 
 Martha Connell 2021 Open Font License
 
-Based upon Public Sans; also under the Open Font License
+Based upon Public Sans; also under the Open Font License. Numeral 2 adapted from Poppins; arrows adapted from Fira Sans.
